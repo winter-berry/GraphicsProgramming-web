@@ -8,6 +8,6 @@ These are a few of the minor games that I developed during the course of my Comp
 
 ## Angry Birds Clone
 <p float="left">
-  <img src="https://github.com/winter-berry/Graphics-Programming/blob/main/Images/asteroidGame.gif" width="49%" height="49%">
+  <img src="https://github.com/winter-berry/Graphics-Programming/blob/main/Images/angryBirdsClone.gif" width="49%" height="49%">
 </p>
 
