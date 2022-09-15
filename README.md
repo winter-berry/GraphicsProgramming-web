@@ -1,5 +1,5 @@
 # Graphics Programming
-Minor projects that I developed during the course of my Computer Science degree.
+Minor projects that I completed during the course of my Computer Science degree.
 
 ## Asteroid Game
 <p float="left">
