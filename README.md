@@ -1,5 +1,5 @@
 # Graphics Programming
-These projects were completed during the course of my Computer Science degree.
+This are a few of my Computer Science degree projects.
 
 ## Asteroid Game
 <p float="left">
