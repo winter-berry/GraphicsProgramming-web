@@ -1,5 +1,5 @@
 # Graphics Programming
-These are a few of my Computer Science degree projects.
+BSc CS PROJECT(S)
 
 ## Asteroid Game
 <p float="left">
