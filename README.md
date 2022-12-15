@@ -1,5 +1,5 @@
 # Graphics Programming
-BSc CS PROJECT(S)
+BSc CS PROJECTS
 
 ## Asteroid Game
 <p float="left">
