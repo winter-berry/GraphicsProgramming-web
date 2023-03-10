@@ -1,4 +1,4 @@
-# Graphics Programming
+# Graphics Programming (Web)
 This is a BSc CS project.
 
 ## Asteroid Game
